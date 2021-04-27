@@ -18,8 +18,11 @@ Mobilepose-style implementation of object as distribution
       - voc
       ...
   + sources
-      + config.py
+      + mappers
+          + coco_mapper.py
+      + utils
       ...
+      + config.py
   + test.py
   
 ```
