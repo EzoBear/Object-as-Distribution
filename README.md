@@ -13,7 +13,7 @@ Mobilepose-style implementation of object as distribution
 * Object-as-Distribution
   + configs
       + default_config.yaml
-  + datasets(please add your repository of datasets)
+  - datasets(please add your repository of datasets)
       - coco
       - voc
       ...
