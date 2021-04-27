@@ -7,7 +7,7 @@ Mobilepose-style implementation of object as distribution
 
 **[Mobilepose](https://arxiv.org/abs/2003.03522)**
 
-# Project structure based on Detectron2
+## Project structure based on Detectron2
 
 ```
 * Object-as-Distribution
@@ -24,13 +24,13 @@ Mobilepose-style implementation of object as distribution
   
 ```
 
-# Usage
+## Usage
 
 ```
 python test.py --config configs/default_config.yaml --eval-only --num-gpus 2
 ```
 
-# Demo
+## Demo
 <img src="demo/Demo_1.png">
 <img src="demo/Demo_2.png">
 <img src="demo/Demo_3.png">
