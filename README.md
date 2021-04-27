@@ -1,5 +1,5 @@
 # Object-as-Distribution
-Mobilepose-style implementation of object as distribution
+Mobilepose-style implementation of object as distribution. Not parameterized method, we use heatmap based method.
 
 <img src="demo/Object-as-Distribution.png">
 
