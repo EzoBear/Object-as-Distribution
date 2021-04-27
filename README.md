@@ -1,5 +1,5 @@
 # Object-as-Distribution
-Mobilepose-style implementation of object as distribution. Not parameterized method, we use heatmap based method.
+Mobilepose-style implementation of object as distribution. Not parameterized method, we use heatmap based method. Additionally, although not specified in the paper, we conduct to normalization of the heatmap. This result is more similar to result of the paper.
 
 <img src="demo/Object-as-Distribution.png">
 
